@@ -1,7 +1,6 @@
 ## Summary
 
-- This is pretty much the same project as my motion activated Jarvis using an Arduino board 
-- The only difference is that this one is purely voice activated, no board needed. All you  need to do is to say `Jarvis` to active the commands
+A voice-activated assistant that runs entirely on your computer, no extra hardware required. Say `Jarvis` followed by a command to trigger any of the actions below.
 
 ## Commands
 
