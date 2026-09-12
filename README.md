@@ -10,7 +10,7 @@
 
 - What is my name?
   - tells you the name to call you 
-  - by default it is Mr. Bibb
+  - by default it is my name
 
 - Change my name.
   - allows you to set a custom name to be called
